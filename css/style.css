@@ -1,0 +1,49 @@
+ul li a{
+    color: gray;
+    font-size: 16px;
+    text-transform: uppercase;
+ 
+}
+ul li a:hover{
+    color: #fe7ebb;
+    
+}
+li a.active{
+    color: #fe7ebb;
+}
+.sectionOne{
+    padding: 90px;
+}
+.sectionThree{
+    
+    background-color: #f9f9f9;
+}
+.textTitle{
+    color: #646976;
+}
+.text{
+    color: #aeb4bf;
+}
+.textI{
+    color: #fe7ebb;
+    font-style: italic;
+}
+.footerLink{
+    list-style: none;
+}
+.footerLink li{
+   font-size: 14px;
+}
+.price{
+    color: #fe7ebb;
+}
+.news{
+    font-weight: 200;
+}
+.icons a i{
+    margin-right: 20px;
+    font-size: 25px;
+}
+.icons a i:hover{
+    color: #fe7ebb;
+}
